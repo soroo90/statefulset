@@ -1,0 +1,11 @@
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: sppods
+spec:
+  containers:
+    - name: spcon
+      image: nginx
+      ports:
+      - containerPort: 80
