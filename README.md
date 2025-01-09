@@ -1,0 +1,2 @@
+# statefulset
+For demo purpose
